@@ -1,0 +1,170 @@
+str_att_desc_filler:
+    =-
+
+str_att_desc_aurasphaere:
+    =Aurangriff, der\nZiel immer\ntrifft.
+
+str_att_desc_gifthieb:
+    =Giftiger Schlag\nder vergiften\nkann.
+
+str_att_desc_fokusstoss:
+    =Fokusangriff,\nder Sp.Vert.\nsenken kann.
+
+str_att_desc_patronenhieb:
+    =Eisenhieb mit\nErstschlaggarantie.
+
+str_att_desc_finsteraura:
+    =Aura lässt Ziel\nzurückschrecken.
+
+str_att_desc_flammenblitz:
+    =Feuerangriff mit\nRücksto\sschaden.
+
+str_att_desc_eiszahn:
+    =Eisiger Biss\nder evtl.\neinfriert.
+
+str_att_desc_donnerzahn:
+    =Elektrischer Biss\nder evtl.\nparalysiert.
+
+str_att_desc_dunkelklaue:
+    =Schlag mit\nKlauen. Hohe\nVolltrefferchance.
+
+str_att_desc_kreuzschere:
+    =Gekreuzter\nScherenangriff.\nHohe Volltreffer-\nchance.
+
+str_att_desc_steinkante:
+    =Felsenfester Sto\s\nmit hoher\nVolltrefferchance.
+
+str_att_desc_sturzflug:
+    =Sturzflug, der\nRücksto\sschaden\nverursacht.
+
+str_att_desc_steinpolitur:
+    =Glättet Ober-\nflächen und erhöht\nInit. drastisch.
+
+str_att_desc_kraxler:
+    =Harter Sto\s\nverwirrt das\nZiel evtl.
+
+str_att_desc_blaettersturm:
+    =Senkt eigenen\nSp.Angr nach\nBlütensturm.
+
+str_att_desc_nahkampf:
+    =Voller Einsatz\nder eigene\nVerteidigungswerte\nsenkt.
+
+str_att_desc_lichtkanone:
+    =Helle Strahlen,\ndie evtl.\nSp.Vert senken.
+
+str_att_desc_draco_meteor:
+    =Ultimativer\nDrachenangriff, der\neigenen Sp.Angr.\nsenkt.
+
+str_att_desc_nasschweif:
+    =Angriff mit\nnassem Schweif.\nLässt evtl.\nzurückschrecken.
+
+str_att_desc_energieball:
+    =Energieball,\nder evtl.\nSp.Vert. senkt.
+
+str_att_desc_schattenstoss:
+    =Angriff aus dem\nSchatten mit\nErstschlag-\ngarantie.
+
+str_att_desc_doppelschlag:
+    =Zweifacher\nSchlagangriff.
+
+str_att_desc_tiefschlag:
+    =Hinterlistiger\nAngriff mit\nErstschlag-\ngarantie.
+
+str_att_desc_nachthieb:
+    =Dunkler Hieb\nmit hoher\nVolltrefferchance.
+
+str_att_desc_samenbombe:
+    =Bombardement mit\nSamengeschossen.
+
+str_att_desc_erdkraefte:
+    =Ausbrüche am\nBoden, die evtl.\nSp.Vert senken.
+
+str_att_desc_drachenpuls:
+    =Drachenaura,\ndie evtl.\nzurückschrecken\nlässt.
+
+str_att_desc_zen_kopfstoss:
+    =Kopfstoss,\nder evtl.\nzurückschrecken\nlässt.
+
+str_att_desc_eissplitter:
+    =Eisige Splitter\nmit Erstschlag-\ngarantie.
+
+str_att_desc_feuerzahn:
+    =Glühender Biss,\nder evtl. verbrennt.
+
+str_att_desc_wasserduese:
+    =Schneller Wasser-\ndruckangriff mit\nErschlaggarantie.
+
+str_att_desc_zornfeuer:
+    =Angriff mit jedem\nMaul, der drei\nMal trifft.
+
+str_att_desc_tsunami:
+    =Tödliche Welle,\nmit hoher\nVolltrefferrate.
+
+str_att_desc_stahlstreich:
+    =Ritterschlag, der\nzufällig Angr.\noder Vert.\nerhöht.
+
+str_att_desc_kinesiswelle:
+    =Alles vernichtende\nPsiwelle.\nAnwender muss\nsich regenerieren.
+
+str_att_desc_supernova:
+    =Feuerbrunst, die\nZiel immer\nverbrennt.
+
+str_att_desc_wasserspalt:
+    =Teilt das Meer\nund kann Gegner\nverwirren.
+
+str_att_desc_schallstich:
+    =Meisterhieb\nmit enormer\nGeschwindigkeit.\nTrifft zuerst.
+
+str_att_desc_diebeskuss:
+    =Kuss, der\neinen Teil der\ngegnerischen Kp\nstiehlt.
+
+str_att_desc_knuddler:
+    =Ziel wird\nmit aller Härte\ngeknuddelt.
+
+str_att_desc_mondgewalt:
+    =Gezeitenkräfte\nwirken auf Ziel.\nSenkt evtl.\nSp.Angr.
+
+str_att_desc_zauberschein:
+    =Glitzernde\nAttacke, schadet\ndem Gegner.
+
+str_att_desc_saeuselstimme:
+    =Bizarre Laute\nverursachen\nmentalen Schaden.
+
+str_att_desc_bienenstich:
+    =Gemeiner Stich,\nder sehr\nwahrscheinlich\nvergiftet.
+
+str_att_desc_schwarmstich:
+    =Schwarmangriff,\nder 2-5 Mal\ntrifft.
+
+str_att_desc_heissstein:
+    =Glühende Felsen,\ndie verbrennen\nkönnen.
+
+str_att_desc_gewitter:
+    =Gewitter trifft\nalle Kämpfer und\nparalysiert diese\nevtl.
+
+str_att_desc_eisenslam:
+    =Gestählter Körper\nstö\st Gegner\nund lässt evtl.\nzurückschrecken.
+
+str_att_desc_holzgeweih:
+    =Hölzernes Geweih\nstiehlt dem Gegner\neinige Kp.
+
+str_att_desc_kaeferbiss:
+    =Käferbiss, der\ndem Gegner schadet.
+
+str_att_desc_falterreigen:
+    =Mysteriöser Reigen,\nder Sp.Angr, Sp.Vert\nund Init. erhöht.
+
+str_att_desc_nitroladung:
+    =Sprüht Funken, und\nerhöht dabei eigene\nInit.
+
+str_att_desc_kaefergebrumm:
+    =Schmerzendes Surren\nschädigt Gegner.
+
+str_att_desc_tornado:
+    =Sturmwand, die den\nGegner evtl.\nverwirrt.
+
+str_att_desc_koenigsschild:
+    =Schützt Anw.\nund wechselt\nin eine defensive\nForm.
+
+str_att_desc_hammerarm:
+    = Schädigt Gegner\nund senkt dessen\nInit.

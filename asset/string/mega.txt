@@ -1,0 +1,15 @@
+str_mega_reacts:
+    =\b\03 von \b\02\nreagiert auf \b\01 von \b\04.
+
+str_mega_opp:
+    =(Gegner)
+
+str_mega_evolved:
+    =\b\02 hat sich zu\nMega-\b\05 entwickelt!
+
+str_regent_evolved:
+    =\b\02 umgibt die Aura\neines Kaisers!
+
+str_aura_pulses:
+    =Die Aura von \b\02\npulsiert!
+
