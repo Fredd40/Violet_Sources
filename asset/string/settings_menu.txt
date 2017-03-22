@@ -1,8 +1,15 @@
-str_settings_color:
+.string str_settings_color GER
     =Farben
+.end
 
-str_settings_color_dn:
+.string str_settings_color EN
+    =Colors
+.end
+
+.string str_settings_color_dn _
     =DNS
+.end
 
-str_settings_color_standard:
+.string str_settings_color_standard _
     =Standard
+.end

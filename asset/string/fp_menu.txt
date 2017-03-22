@@ -1,28 +1,64 @@
-str_fp_menu_kp:
+.string str_fp_menu_kp GER
     =Kp
+.end
 
-str_fp_menu_atk:
+.string str_fp_menu_kp EN
+    =Hp
+.end
+
+.string str_fp_menu_atk GER
     =Angr.
+.end
 
-str_fp_menu_def:
+.string str_fp_menu_atk EN
+    =Atk.
+.end
+
+.string str_fp_menu_def GER
     =Vert.
+.end
 
-str_fp_menu_init:
+.string str_fp_menu_def EN
+    =Def.
+.end
+
+.string str_fp_menu_init GER
     =Init.
+.end
 
-str_fp_menu_satk:
+.string str_fp_menu_init EN
+    =Speed
+.end
+
+.string str_fp_menu_satk GER
     =Sp. Angr.
+.end
 
-str_fp_menu_sdef:
+.string str_fp_menu_satk EN
+    =Sp. Atk.
+.end
+
+.string str_fp_menu_sdef GER
     =Sp. Vert.
+.end
 
-@create ref
-str_fp_menu_plus:
+.string str_fp_menu_sdef EN
+    =Sp. Def.
+.end
+
+.string str_fp_menu_plus _
     =+
+.end
 
-@create ref
-str_fp_menu_minus:
+.string str_fp_menu_minus _
     =-
+.end
 
-str_fp_menu:
+.string str_fp_menu GER
     =Flei\$s-Punkte
+.end
+
+.string str_fp_menu EN
+    =Effort Values
+.end
+

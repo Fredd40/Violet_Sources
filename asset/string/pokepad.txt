@@ -1,286 +1,451 @@
-@create ref
-str_pokepad_wondertrade:
+.string str_pokepad_wondertrade GER
         =Wundertausch
+.end
 
-str_pokepad_wondertrade_desc:
+.string str_pokepad_wondertrade EN
+        =Wondertrade
+.end
+
+.string str_pokepad_wondertrade_desc GER
         =Tausche Pok\emon mit Trainern\naus aller Welt.
+.end
 
-str_pokepad_pokeradar:
+.string str_pokepad_wondertrade_desc EN
+        =Trade your Pok\emon with\ntrainers worldwide.
+.end
+
+.string str_pokepad_pokeradar _
         =Pok\eradar
+.end
 
-@create ref
-str_pokepad_l:
+.string str_pokepad_l _
         =L
+.end
 
-@create ref
-str_pokepad_r:
+.string str_pokepad_r _
         =R
+.end
 
-@create ref
-str_pokepad_registered:
+.string str_pokepad_registered GER
         =Die \b\02-App wurde auf der\n\b\03-Taste registriert.
+.end
 
-@create ref
-str_pokepad_deregistered:
+.string str_pokepad_registered EN
+        =The \b\02-App was registered\non the \b\03-key.
+.end
+
+.string str_pokepad_deregistered GER
         =Die \b\02-App ist nicht länger\nauf der \b\03-Taste registriert.
+.end
 
-@create ref
-str_wondertrade_not_possible_script:
+.string str_pokepad_deregistered EN
+        =The \b\02-App is no longer\nregistered on the \b\03-key.
+.end
+
+.string str_wondertrade_not_possible_script GER
         =Verbindung zum Wundertausch-\nNetzwerk fehlgeschlagen (\b\02/250).
+.end
 
-@create ref
-str_wondertrade_level:
+.string str_wondertrade_not_possible_script EN
+        =Failed to connect to the\nWondertrade-Network (\b\02/250).
+.end
+
+.string str_wondertrade_level _
         =Level:
+.end
 
-@create ref
-str_wondertrade_bronze:
+.string str_wondertrade_bronze _
         =Bronze
+.end
 
-@create ref
-str_wondertrade_silver:
+.string str_wondertrade_silver GER
         =Silber
+.end
 
-@create ref
-str_wondertrade_gold:
+.string str_wondertrade_silver EN
+        =Silver
+.end
+
+.string str_wondertrade_gold _
         =Gold
+.end
 
-@create ref
-str_wondertrade_platin:
+.string str_wondertrade_platin GER
         =Platin
+.end
 
-@create ref
-str_wondertrade_anzahl:
+.string str_wondertrade_platin EN
+        =Platinum
+.end
+
+.string str_wondertrade_anzahl GER
         =Anzahl:
+.end
 
-@create ref
-str_wondertrade_next:
+.string str_wondertrade_anzahl EN
+        =Count:
+.end
+
+.string str_wondertrade_next GER
         =Nächst. Lv.:
+.end
 
-@create ref
-str_wondertrade_none:
+.string str_wondertrade_next EN
+        =Next Lv.:
+.end
+
+.string str_wondertrade_none _
         =---
+.end
 
-@create ref
-str_wondertrade_do:
+.string str_wondertrade_do GER
         =Tauschen
+.end
 
-@create ref
-str_wondertrade_back:
+.string str_wondertrade_do EN
+        =Trade
+.end
+
+.string str_wondertrade_back GER
         =Zurück
+.end
 
-@create ref
-str_wondertrade_error_m:
+.string str_wondertrade_back EN
+        =Back
+.end
+
+.string str_wondertrade_error_m GER
         =Dieses Pok\emon kennt eine VM\noder ist ein Ei.
+.end
 
-@create ref
-str_wondertrade_name0:
+.string str_wondertrade_error_m EN
+        =This Pok\emon knows a hm\nor is an egg.
+.end
+
+.string str_wondertrade_name0 _
         =Wodka
+.end
 
-str_wondertrade_name1:
+.string str_wondertrade_name1 _
         =Freddy
+.end
 
-str_wondertrade_name2:
+.string str_wondertrade_name2 _
         =Phil
+.end
 
-str_wondertrade_name3:
+.string str_wondertrade_name3 _
         =Alen
+.end
 
-str_wondertrade_name4:
+.string str_wondertrade_name4 _
         =Anja
+.end
 
-str_wondertrade_name5:
+.string str_wondertrade_name5 _
         =Bene
+.end
 
-str_wondertrade_name6:
+.string str_wondertrade_name6 _
         =Carina
+.end
 
-str_wondertrade_name7:
+.string str_wondertrade_name7 _
         =Chris
+.end
 
-str_wondertrade_name8:
+.string str_wondertrade_name8 _
         =Cindy
+.end
 
-str_wondertrade_name9:
+.string str_wondertrade_name9 _
         =Felix
+.end
 
-str_wondertrade_name10:
+.string str_wondertrade_name10 _
         =Georg
+.end
 
-str_wondertrade_name11:
+.string str_wondertrade_name11 _
         =Hanna
+.end
 
-str_wondertrade_name12:
+.string str_wondertrade_name12 _
         =Jan
+.end
 
-str_wondertrade_name13:
+.string str_wondertrade_name13 _
         =Jana
+.end
 
-str_wondertrade_name14:
+.string str_wondertrade_name14 _
         =Jasmin
+.end
 
-str_wondertrade_name15:
+.string str_wondertrade_name15 _
         =Jessy
+.end
 
-str_wondertrade_name16:
+.string str_wondertrade_name16 _
         =Jonas
+.end
 
-str_wondertrade_name17:
+.string str_wondertrade_name17 _
         =Jörg
+.end
 
-str_wondertrade_name18:
+.string str_wondertrade_name18 _
         =Julia
+.end
 
-str_wondertrade_name19:
+.string str_wondertrade_name19 _
         =Laura
+.end
 
-str_wondertrade_name20:
+.string str_wondertrade_name20 _
         =Lena
+.end
 
-str_wondertrade_name21:
+.string str_wondertrade_name21 _
         =Louis
+.end
 
-str_wondertrade_name22:
+.string str_wondertrade_name22 _
         =Luka
+.end
 
-str_wondertrade_name23:
+.string str_wondertrade_name23 _
         =Maja
+.end
 
-str_wondertrade_name24:
+.string str_wondertrade_name24 _
         =Manu
+.end
 
-str_wondertrade_name25:
+.string str_wondertrade_name25 _
         =Marius
+.end
 
-str_wondertrade_name26:
+.string str_wondertrade_name26 _
         =Maria
+.end
 
-str_wondertrade_name27:
+.string str_wondertrade_name27 _
         =Martin
+.end
 
-str_wondertrade_name28:
+.string str_wondertrade_name28 _
         =Michael
+.end
 
-str_wondertrade_name29:
+.string str_wondertrade_name29 _
         =Miriam
+.end
 
-str_wondertrade_name30:
+.string str_wondertrade_name30 _
         =Sophia
+.end
 
-str_wondertrade_name31:
+.string str_wondertrade_name31 _
         =Robin
+.end
 
-str_wondertrade_name32:
+.string str_wondertrade_name32 _
         =Sabrina
+.end
 
-str_wondertrade_name33:
+.string str_wondertrade_name33 _
         =Sandra
+.end
 
-str_wondertrade_name34:
+.string str_wondertrade_name34 _
         =Maxi
+.end
 
-str_wondertrade_name35:
+.string str_wondertrade_name35 _
         =Sebi
+.end
 
-str_wondertrade_name36:
+.string str_wondertrade_name36 _
         =Vanessa
+.end
 
-str_pokepad_pokeradar:
+.string str_pokepad_pokeradar _
         =Pok\eradar
+.end
 
-str_pokepad_pokeradar_desc:
+.string str_pokepad_pokeradar_desc GER
         =Finde seltene Pok\emon in\nder Umgebung.
+.end
 
-str_pokepad_pokeradar_done:
+.string str_pokepad_pokeradar_desc EN
+        =Traces rare Pok\emon\nnearby.
+.end
+
+.string str_pokepad_pokeradar_done GER
         =Der Pok\eradar hat bereits ein\nPok\emon ausfindig gemacht.
+.end
 
-str_pokepad_pokeradar_empty:
+.string str_pokepad_pokeradar_done EN
+        =The Pok\eradar already traced\na Pok\emon.
+.end
+
+.string str_pokepad_pokeradar_empty GER
         =Der Pok\eradar kann hier nichts\nausfindig machen.
+.end
 
-str_pokepad_pokeradar_no_grass:
+.string str_pokepad_pokeradar_empty EN
+        =The Pok\eradar can not\nfind anything in this area.
+.end
+
+.string str_pokepad_pokeradar_no_grass GER
         =Der Pok\eradar kann nur in der\nNähe von hohem Gras ein\lPok\emon ausfindig machen.
+.end
 
-str_pokepad_pokeradar_unlucky:
+.string str_pokepad_pokeradar_no_grass EN
+        =The Pok\eradar can only trace\nPok\emon when you are\nnear some high grass.
+.end
+
+.string str_pokepad_pokeradar_unlucky GER
         =Der Pok\eradar hat nichts entdeckt.\nVersuche es später noch einmal.
+.end
 
-str_pokepad_pokeradar_alert:
+.string str_pokepad_pokeradar_unlucky EN
+        =Seems like the Pok\eradar\ncould not find anything...\pBest to try it again!
+.end
+
+.string str_pokepad_pokeradar_alert GER
         =Das Pok\emon hat dich entdeckt!\nEs ist geflohen!
+.end
 
-str_pokepad_pokeradar_flee:
+.string str_pokepad_pokeradar_alert EN
+        =The Pok\emon spotted you!\nIt fled!
+.end
+
+.string str_pokepad_pokeradar_flee GER
         =Das Pok\emon ist geflohen...
+.end
 
-str_pokepad_pokeradar_found:
+.string str_pokepad_pokeradar_flee EN
+        =The Pok\emon fled...
+.end
+
+.string str_pokepad_pokeradar_found GER
         =Der Pok\eradar hat ein Pok\emon\nentdeckt!
+.end
 
-str_pokepad_pokedex:
+.string str_pokepad_pokeradar_found EN
+        =The Pok\eradar spotted a Pok\emon!
+.end
+
+.string str_pokepad_pokedex _
         =Pok\edex
+.end
 
-str_pokepad_pokedex_desc:
+.string str_pokepad_pokedex_desc GER
         =Betrachte Aufzeichnungen zu gefangenen\nund gesehenen Pok\emon.
+.end
 
-@create ref
-str_pokepad_pokedex_nl:
+.string str_pokepad_pokedex_desc EN
+        =View your records of caught and\nseen Pok\emon.
+.end
+
+.string str_pokepad_pokedex_nl _
         =\n
+.end
 
-@create ref
-str_pokepad_pokedex_unkown:
+.string str_pokepad_pokedex_unkown _
     =-----
+.end
 
-@create ref
-str_pokepad_pokedex_form:
+.string str_pokepad_pokedex_form _
     =Form
+.end
 
-@create ref
-str_pokepad_pokedex_data:
+.string str_pokepad_pokedex_data GER
     =Gr.\nGew.
+.end
 
-@create ref
-str_pokepad_pokedex_qmark:
+.string str_pokepad_pokedex_data EN
+    =Sz.\nWgt.
+.end
+
+.string str_pokepad_pokedex_qmark _
     =???
+.end
 
-@create ref
-str_pokepad_pokedex_std_buttons:
+.string str_pokepad_pokedex_std_buttons GER
     =\k\_keystart Ruf  \k\_keyud Liste  \k\_keyhor Eintr. \k\_keyb Zur.
+.end
 
-@create ref
-str_pokepad_pokedex_habitat:
+.string str_pokepad_pokedex_std_buttons EN
+    =\k\_keystart Cry  \k\_keyud List  \k\_keyhor Rec. \k\_keyb Back
+.end
+
+.string str_pokepad_pokedex_habitat _
     =\k\_keya Hab.
+.end
 
-@create ref
-str_pokepad_pokedex_kg:
+.string str_pokepad_pokedex_kg _
     =kg
+.end
 
-@create ref
-str_pokepad_pokedex_m:
+.string str_pokepad_pokedex_m _
     =m
+.end
 
-@create ref
-str_pokepad_pokedex_comma:
+.string str_pokepad_pokedex_comma _
     =,
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_title:
-    = Fundorte v. 
+.string str_pokepad_pokedex_habitat_title GER
+    =Fundorte v. 
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_back:
+.string str_pokepad_pokedex_habitat_title EN
+    =Habitats of 
+.end
+
+.string str_pokepad_pokedex_habitat_back GER
     = \k\_keyb Zur.
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_grass:
+.string str_pokepad_pokedex_habitat_back EN
+    = \k\_keyb Back
+.end
+
+.string str_pokepad_pokedex_habitat_grass GER
     = Natur
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_water:
+.string str_pokepad_pokedex_habitat_grass EN
+    = Nature
+.end
+
+.string str_pokepad_pokedex_habitat_water GER
     = Wasser
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_rod:
+.string str_pokepad_pokedex_habitat_water EN
+    = Water
+.end
+
+.string str_pokepad_pokedex_habitat_rod GER
     = Angel
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_radar:
+.string str_pokepad_pokedex_habitat_rod EN
+    = Rod
+.end
+
+.string str_pokepad_pokedex_habitat_radar _
     = Radar
+.end
 
-@create ref
-str_pokepad_pokedex_habitat_none:
+.string str_pokepad_pokedex_habitat_none GER
     = Keine Gebiete bekannt
+.end
+
+.string str_pokepad_pokedex_habitat_none EN
+    = No Habitats known
+.end
