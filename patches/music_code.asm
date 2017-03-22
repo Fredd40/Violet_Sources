@@ -1,0 +1,45 @@
+
+
+.org 0x080805A4
+ldr r1, =get_encounter_music_by_trainer_id | 1
+bl do_r1
+ldr r1, =0x08080617
+do_r1:
+bx r1
+.pool
+
+.org 0x08043ED4
+ldr r0, =battle_get_music | 1
+bx r0
+.pool
+
+//@Always enable stereo as desired sound
+.org 0x080ECA76
+    mov r0, #0x1
+.org 0x08088C82
+    mov r0, #0x1
+
+.org 0x08055DAC
+    ldr r0, =current_map_get_song | 1
+    bx r0
+    .pool
+
+//Ipatix sound stuff
+.org 0x080007C4
+    .word  0x0203E000   // new PCM work area
+
+.org 0x081E134C
+    .word  main_mixer   // new mixer ROM location
+    .word  0x03005E40   // new mixer RAM location (used for loading)
+    .halfword mixer_size
+    .halfword 0x400        // CpuSet, copy code by 32 bit units
+    .word  0x0203E000   // new PCM work area
+
+.org 0x081E1360
+    // set correct sound driver operation mode
+    // 12 channels at 13379 Hz samplerate
+    .byte  0x00, 0xCC, 0x94, 0x00
+
+.org 0x081E032C
+    .word  0x03005E40+1 // new mixer RAM location (used for branch)
+
