@@ -322,7 +322,6 @@ str_0x1a8ac7:
 str_0x1a8b4b:
     .string "Box QUOTEBUFFER_3QUOTE\nauf dem Pc ist voll.\pBUFFER_2 wurde in Box\nQUOTEBUFFER_1QUOTE übertragen."
         
-        
 .global str_0x1a8a83
 
 str_0x1a8a83:
@@ -333,7 +332,6 @@ str_0x1a8a83:
 
 str_0x1a8b08:
     .string "Box QUOTEBUFFER_3QUOTE\nauf dem Pc ist voll.\pBUFFER_2 wurde in Box\nQUOTEBUFFER_1QUOTE übertragen."
-        
         
 .global str_0x8dcba5
 
