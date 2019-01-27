@@ -21,11 +21,11 @@ BLOG_TITLE = "Pokémon Violet"  # (translatable)
 
 # This is the main URL for your site. It will be used in a prominent link.
 # Don't forget the protocol (http/https)!
-SITE_URL = "http://localhost:8000/"
+SITE_URL = "https://wodkarhr.github.io/Violet_Sources/"
 
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://localhost:8000/"
+# BASE_URL = "https://wodkarhr.github.io/Violet_Sources/"
 BLOG_EMAIL = "wodka@romhackersworld.eu"
 BLOG_DESCRIPTION = "The Official Pokémon Violet Website."  # (translatable)
 
@@ -1011,7 +1011,7 @@ PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
-FUTURE_IS_NOW = True
+# FUTURE_IS_NOW = False
 
 # If True, future dated posts are allowed in deployed output
 # Only the individual posts are published/deployed; not in indexes/sitemap

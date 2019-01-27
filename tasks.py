@@ -34,7 +34,7 @@ def deploy(context, message):
 
     print()
     print("Building the website...")
-    os.system("nikola build")
+    os.system("nikola --conf=conf.deploy.py  build")
     print()
     print("Committing the changes...")
     subprocess.Popen("git add *", cwd=targetRepo.working_dir).wait()
