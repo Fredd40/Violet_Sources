@@ -137,14 +137,16 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archiv"),
-        ("/categories/", "Tags"),
+        ("/blog/archive.html", "Archiv"),
+        ("/categories/", "Kategorien"),
+        ("/tags/", "Tags"),
         ("/rss.xml", "RSS-Feed"),
     ),
 
     "en": (
-        ("/en/archive.html", "Archive"),
-        ("/en/categories/", "Tags"),
+        ("/en/blog/archive.html", "Archive"),
+        ("/en/categories/", "Categories"),
+        ("/en/tags/", "Tags"),
         ("/en/rss.xml", "RSS feed"),
     ),
 }
@@ -353,7 +355,7 @@ METADATA_FORMAT = "YAML"
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
 # (translatable)
-TAG_PATH = "blog/categories"
+TAG_PATH = "tags"
 
 # By default, the list of tags is stored in
 #     output / TRANSLATION[lang] / TAG_PATH / index.html
@@ -415,7 +417,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-CATEGORY_PATH = "blog/categories"
+CATEGORY_PATH = "categories"
 # CATEGORY_PREFIX = "cat_"
 
 # By default, the list of categories is stored in
