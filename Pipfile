@@ -8,9 +8,13 @@ name = "pypi"
 "html5lib" = "*"
 pyagb = {git = "https://github.com/WodkaRHR/pyagb.git",ref = "84ce796eb15104610ea5d831296d7f62281e7650"}
 nikola = {extras = ["extras"],version = "*"}
+invoke = "*"
+gitpython = "*"
 
 [dev-packages]
 pylint = "*"
+rope = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.6"
